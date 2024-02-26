@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "proxy-chain": "^2.4.0",
     "puppeteer": "^22.1.0"
   }
 }
